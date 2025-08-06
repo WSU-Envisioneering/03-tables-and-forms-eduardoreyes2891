@@ -1,1 +1,14 @@
 /* Your styles go here */
+table{
+    border-collapse:collapse;
+}
+
+td, th{
+    border: 1px black solid;
+    padding: 10px;
+    
+}
+
+tfoot{
+    text-align: center;
+}
